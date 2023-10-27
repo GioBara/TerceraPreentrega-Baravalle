@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(110, 34, 182);
+}
+
+.container {
+    margin: auto;
+    margin-top: 10px;
+    padding: 15px;
+    background-color: black;
+    border-radius: 15%;
+    color: aliceblue;
+}
+
+.btn {
+    margin-left: 430px;
+}
+
+.alert {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+}
